@@ -7,7 +7,7 @@
   "fecha_fin": "2026-11-29",
   "fecha_servicio": "2026-11-29T07:00:00.000Z",
   "inicializacion": "2026-11-28T07:00:00.000Z",
-  "generado": "2026-11-28T12:07:13.577707-05:00",
+  "generado": "2026-11-28T13:00:11.876967-05:00",
   "intervalos": 1,
   "unidad": "mm",
   "convencion_temporal": "Producto diario. Extremos horarios del acumulado pendientes de confirmar; TIME no se interpreta como inicio ni fin local.",
